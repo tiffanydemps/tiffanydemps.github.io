@@ -1,0 +1,257 @@
+
+
+#colorbar{
+background-color: plum;
+height: 90px;
+width: 100;
+}
+
+
+body{
+background-color: lavender;
+text-align: center;
+}
+
+main{
+text-align:center;
+}
+
+h1 {
+font-family: 'lobster', sans-serif;
+color: purple;
+text-align: center;
+}
+
+
+#nav{
+color:plum;
+text-align: center;
+}
+
+#lowbar{
+background-color: plum;
+height: 10px;
+width: 100;
+}
+
+#anotherlowbar{
+background-color: plum;
+height: 10px;
+width: 100;
+}
+
+
+h2 {
+  font-family: pacifico;
+  color:purple;
+  text-align: center;
+}
+
+
+h3{
+  color: purple;
+  text-align: center
+}
+
+p{
+font-family:'sans-serif', 'Raleway';
+color: purple;
+text-align: center;
+}
+
+ul.custom{
+list-style-type: star;
+}
+
+footer{
+font-family:'sans-serif', 'Raleway';
+color: purple;
+}
+
+img{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 7px solid plum;
+}
+
+
+/*when you hover over my links modernmomsmiami and wix, both will turn purple*/
+
+a:hover{
+color: plum;
+}
+
+.row{
+font style:'pacifico' lobster;
+}
+
+
+ul.changecircle{
+list-style-type: square;
+}
+
+ul.trydisc{
+list-style-type: disc;
+}
+
+
+th {
+font-family: sans-serif;
+color: pink;
+}
+
+#midlowbar{
+background-color: plum;
+height: 10px;
+width: 100;
+}
+
+#lastlowbar{
+background-color: plum;
+height: 10px;
+width: 100;
+}
+
+#replacetext{
+  color: purple;
+}
+
+#replace{
+  color: purple;
+}
+
+#thanks{
+color:purple;
+}
+
+
+/*
+@media (max-width: 650px) {
+  .container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+} */
+
+
+h4{
+  color: purple;
+  text-align: center
+}
+
+h5{
+  color: purple;
+  text-align: center
+}
+
+ul{
+  color: purple;
+  text-align: center
+}
+
+ol{
+  color: purple;
+  text-align: center
+}
+
+li{
+  color: purple;
+  text-align: center
+}
+
+
+#container {
+  display: grid;
+  grid-template-columns: 300px 800px;
+  grid-gap: 10px;
+  width: 24.99999%;
+}
+
+div.box img {
+  width: 100%;
+  height: auto%;
+}
+
+.box {
+  padding: 20px;
+  background-color: plum
+}
+
+
+
+.card {
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  background-color: purple;
+}
+
+.title {
+  color: plum;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: lavender;
+  background-color: plum;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: lavender;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+
+
+.responsive{
+    padding: 10px;
+    background-color: purple;
+    transition: transform .2s; /* Animation */
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+}
+
+.responsive:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
+div.gallery {
+    border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+*
+
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
